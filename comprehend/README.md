@@ -1,4 +1,4 @@
-# AWS
+# Comprehend
 
 AWS Comprehendのサンプルプログラムです。
 
